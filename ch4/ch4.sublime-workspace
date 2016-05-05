@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"L",
+				"LETER"
+			],
+			[
+				"re",
+				"readlinecol"
+			],
+			[
+				"out",
+				"output_col"
+			],
+			[
+				"m",
+				"MAX_LINES"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"n",
+				"na"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/ch3/enum.c",
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "if.c",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C.sublime-build",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal l",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/exe28-1/negate.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/exe28-1/increment.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/exe28-1/main.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/exe28-1/main.exe",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/exercise1.2.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_and_pointer_resourcecode/ch1/rearrang.c",
+		"/Users/sadechull/Downloads/C和指针/c和指针代码及答案［完整版］/c和指针代码及答案/ch1/rearrang.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/test.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/lesson3.1-int&double.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/C_without_.term.sublime-build",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/kljsdjklfj",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/untitled.c",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/untitled3",
+		"/Users/sadechull/Documents/CodeGarden/C/untitled",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/C.sublime-build",
+		"/Users/sadechull/Documents/yu.tex",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
+		"/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	printf(\"%d %d\\n\", increment(10), negate(10) );\n",
+			"read_column_numbers",
+			"input",
+			"columns",
+			"*/\n",
+			"		if( columns[col] >= len ||output_col == MAX_INPUT - 1 )\n			break;\n\n		/*\n		** If there isn't room in the output array, only copy\n		** what will fit.\n		*/\n		if( output_col + nchars > MAX_INPUT - 1 )\n			nchars = MAX_INPUT - output_col - 1;",
+			"puts",
+			"	\n",
+			"了",
+			"看",
+			"看了十大疯狂了",
+			"看",
+			"/usr/local/texlive/texmf-local/tex/latex/ctex/cfg/ctex.cfg",
+			"customized"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"快速"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/sadechull/Library/Application Support/Sublime Text 2/Packages/User/codelibrary/C_learning/ch3/enum.c",
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "if.c",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 78.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/sadechull/Documents/texsome/yu.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
