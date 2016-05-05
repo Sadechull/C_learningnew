@@ -1,12 +1,12 @@
 #include <stdio.h>
-#define number 10
+#define MAXNUMBER 10
 
 int main(void)
 {
 	int i;
-	for( i = 0; i < number; i += 1)
+	for( i = 0; i < MAXNUMBER; i += 1)
 	{
-		printf("%d的平方：%d\n", i, i*i);
+		printf("%d 的平方：%d\n", i, i*i);
 	}
 
 	return 0;
