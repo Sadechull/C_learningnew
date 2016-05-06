@@ -28,6 +28,8 @@ int main()
 		case '8':
 			printf("你的英雄是克苏恩");
 		break;
+		default:
+			printf("你的英雄是少主");
 
 	}
 
